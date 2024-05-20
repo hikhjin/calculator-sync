@@ -1,1 +1,1 @@
-# calculator-sync
+# 전공 C반 1조
